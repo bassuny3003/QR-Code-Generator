@@ -1,15 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Drawing.Imaging;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using ZXing.Common.Detector;
 
 namespace QR_Code_Generator
 {
@@ -146,7 +137,7 @@ namespace QR_Code_Generator
                 QRCoder.QRCodeGenerator qR = new QRCoder.QRCodeGenerator();
                 var Data = qR.CreateQrCode(QText, QRCoder.QRCodeGenerator.ECCLevel.H);
                 var code = new QRCoder.QRCode(Data);
-                pictureBox1.Image = code.GetGraphic(50, color, "#FFFFFF", true);
+                pictureBox1.Image = code.GetGraphic(50, color, "#FFFFF0", true);
             }
             catch(Exception ex)
             {
@@ -162,6 +153,11 @@ namespace QR_Code_Generator
         private void button1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("mailto:mail@tecxick.com");
+        }
+
+        private void btn_save_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

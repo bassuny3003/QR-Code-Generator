@@ -46,3 +46,23 @@ C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\QR-Code-Generator\QR Code G
 C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.exe.manifest
 C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.application
 C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.CopyComplete
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.csprojAssemblyReference.cache
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR_Code_Generator.PictureButton.resources
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.GenerateResource.cache
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.CoreCompileInputs.cache
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\QRCoder.dll
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\Zen.Barcode.Core.dll
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.dll
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.presentation.dll
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.pdb
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.xml
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.presentation.pdb
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\bin\Debug\zxing.presentation.xml
+H:\07- Programming  Projects\Online Repository\QR-Code-Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.CopyComplete

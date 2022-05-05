@@ -104,6 +104,7 @@
             this.btn_save.Size = new System.Drawing.Size(102, 38);
             this.btn_save.TabIndex = 5;
             this.btn_save.Text_ = "Save";
+            this.btn_save.Load += new System.EventHandler(this.btn_save_Load);
             // 
             // btn_text
             // 
@@ -151,6 +152,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QR Code Generator";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
